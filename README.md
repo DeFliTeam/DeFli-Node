@@ -10,7 +10,7 @@ an SSD drive with at least 2.5 TB fre
 ### Installation
 
 ```bash
-sudo git clone https://github.com/base-org/node
+sudo git clone https://github.com/DeFliTeam/node-create
 ```
 Set ```bash OP_NODE_L1_ETH_RPC``` (in the .env.* file if using docker-compose) please use eth.nownodes.io or eth-sepolia.nownodes.io
 
